@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Kyryl
+### 👋 Welcome to my page!
 
 _Full-Stack Developer | Python & React_
 
